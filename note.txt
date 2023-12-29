@@ -1,0 +1,7 @@
+Functional Programming Concept
+- A function should do one thing and do it well.
+- Currying
+- Higher-Order Functions.
+- Arity
+- Function Composition
+- Monads.
